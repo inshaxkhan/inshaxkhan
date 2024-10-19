@@ -7,9 +7,9 @@ Final-year Computer Science & Engineering student with a **9.1 CGPA**, skilled i
 
 ## Connect with Me:
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](www.leetcode.com/u/inshaxkhan)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](www.geeksforgeeks.org/user/inshaxkhan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/inshaxkhan)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/inshaxkhan/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/inshaxkhan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/inshaxkhan)
 
 
 ---
@@ -54,10 +54,4 @@ Final-year Computer Science & Engineering student with a **9.1 CGPA**, skilled i
 **Bachelor’s in Technology - CSE** (Dec 2021 - expected Jul 2025)  
 **CGPA**: 9.1
 
-### Cathedral Sr. Sec. School, Lucknow, India  
-**Intermediate - PCM with CS** (Jul 2006 - Jul 2020)  
-**Percentage**: 88%
-
-**High School**  
-**Percentage**: 90.8%
 
