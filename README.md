@@ -52,6 +52,6 @@ Final-year Computer Science & Engineering student with a **9.1 CGPA**, skilled i
 
 ### Integral University, Lucknow, India  
 **Bachelor’s in Technology - CSE** (Dec 2021 - expected Jul 2025)  
-**CGPA**: 9.1
+
 
 
