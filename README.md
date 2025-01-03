@@ -57,19 +57,19 @@ Final-year Computer Science & Engineering student with a **9.1 CGPA**, skilled i
 <!-- GitHub Stats -->
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gshraddha17&theme=radical&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=inshaxkhan&theme=radical&show_icons=true" alt="GitHub Stats" />
 </p>
 
 <!-- GitHub Languages -->
 <h3 align="center">🌟 Top Languages</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gshraddha17&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inshaxkhan&theme=radical" alt="Top Languages" />
 </p>
 
 <!-- GitHub Streak -->
 <h3 align="center">🔥 GitHub Streak</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gshraddha17&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=inshaxkhan&theme=radical" alt="GitHub Streak" />
 </p>
 
 
