@@ -48,24 +48,23 @@ Final-year Computer Science & Engineering student with a **9.1 CGPA**, skilled i
 </p>
 
 
-<!-- GitHub Trophies -->
-<h3 align="center">🏆 GitHub Trophies</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gshraddha17&theme=discord&row=1&column=7" alt="GitHub Trophies" />
-</p>
+
+<!-- GitHub Streak -->
+<h3>🔥 GitHub Streak</h3>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=inshaxkhan&theme=radical" alt="GitHub Streak" />
 
 <!-- GitHub Stats -->
-<h3 align="center">📊 GitHub Stats</h3>
+<h3>📊 GitHub Stats</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=inshaxkhan&theme=radical&show_icons=true" alt="GitHub Stats" />
 
 <!-- GitHub Languages -->
-<h3 align="center">🌟 Top Languages</h3>
+<h3>🌟 Top Languages</h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inshaxkhan&theme=radical" alt="Top Languages" />
 
+<!-- GitHub Trophies -->
+<h3>🏆 GitHub Trophies</h3>
+<img src="https://github-profile-trophy.vercel.app/?username=gshraddha17&theme=discord&row=1&column=7" alt="GitHub Trophies" />
 
-<!-- GitHub Streak -->
-<h3 align="center">🔥 GitHub Streak</h3>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=inshaxkhan&theme=radical" alt="GitHub Streak" />
 
 
 
