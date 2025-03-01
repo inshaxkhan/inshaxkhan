@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## About Me
-Final-year Computer Science & Engineering student with a **9.1 CGPA**, skilled in **Data Structures**, **Algorithms**, **front-end development**, and currently learning **DevOps**. Passionate about problem-solving and building solutions, I am open to roles that leverage my technical expertise and eagerness to grow in tech.
+Final-year Computer Science & Engineering student with a **9.2 CGPA**, skilled in **Data Structures**, **Algorithms**, **front-end development**, and currently learning **DevOps**. Passionate about problem-solving and building solutions, I am open to roles that leverage my technical expertise and eagerness to grow in tech.
 
 ---
 
