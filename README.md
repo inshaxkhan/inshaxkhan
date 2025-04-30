@@ -40,7 +40,6 @@ Final-year Computer Science & Engineering student with a **9.2 CGPA**, skilled i
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Scripting" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
   <img src="https://img.shields.io/badge/CI%2FCD-239120?style=for-the-badge&logo=continuous-integration&logoColor=white" alt="CI/CD" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
@@ -61,9 +60,7 @@ Final-year Computer Science & Engineering student with a **9.2 CGPA**, skilled i
 <h3>🌟 Top Languages</h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inshaxkhan&theme=radical" alt="Top Languages" />
 
-<!-- GitHub Trophies -->
-<h3>🏆 GitHub Trophies</h3>
-<img src="https://github-profile-trophy.vercel.app/?username=gshraddha17&theme=discord&row=1&column=7" alt="GitHub Trophies" />
+
 
 
 
