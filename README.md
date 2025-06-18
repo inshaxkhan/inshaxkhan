@@ -54,8 +54,7 @@ Final-year Computer Science & Engineering student with a **9.2 CGPA**, skilled i
 
 <!-- GitHub Stats -->
 <h3>📊 GitHub Stats</h3>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=inshaxkhan&show_icons=true&theme=radical)
-<img src="https://github-readme-stats.vercel.app/api?username=inshaxkhan&theme=radical&show_icons=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=inshaxkhan&show_icons=true&theme=radical" alt="GitHub Stats" />
 
 <!-- GitHub Languages -->
 <h3>🌟 Top Languages</h3>
