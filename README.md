@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 ## About Me
-Final-year Computer Science & Engineering student with a **9.2 CGPA**, skilled in **Data Structures**, **Algorithms**, **Full stack development**. Passionate about problem-solving and building solutions, I am open to roles that leverage my technical expertise and eagerness to grow in tech.
+Computer Science & Engineering graduate with a **9.1 CGPA**, skilled in **Data Structures**, **Algorithms**, **Full stack development**. 
+Passionate about problem-solving and building solutions. 
+I am open to roles that leverage my technical expertise and eagerness to grow in tech.
 
 ---
 
@@ -30,23 +32,26 @@ Final-year Computer Science & Engineering student with a **9.2 CGPA**, skilled i
 ### Libraries/Frameworks:
 <p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="ReactJS" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 </p>
 
 ### Developer Toolkit:
 <p align="left">
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Scripting" />
-  <img src="https://img.shields.io/badge/CI%2FCD-239120?style=for-the-badge&logo=continuous-integration&logoColor=white" alt="CI/CD" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
 </p>
 
-
+---
 
 <!-- GitHub Streak -->
 <h3>🔥 GitHub Streak</h3>
@@ -61,14 +66,12 @@ Final-year Computer Science & Engineering student with a **9.2 CGPA**, skilled i
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inshaxkhan&theme=radical" alt="Top Languages" />
 
 
-
-
-
+---
 
 ## Education
 
 ### Integral University, Lucknow, India  
-**Bachelor’s in Technology - CSE** (Dec 2021 - expected Jul 2025)  
+**Bachelor’s in Technology - CSE** (Oct 2021 - Jul 2025)  
 
-
+---
 
